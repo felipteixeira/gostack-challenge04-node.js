@@ -14,7 +14,7 @@ class Transaction {
     this.title = title;
     this.value = value;
     this.type = type;
-  }
-}
+  };
+};
 
 export default Transaction;
